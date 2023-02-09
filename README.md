@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cecinatucci
 - 👀 I’m interested in front end development
 - 🌱 React dev Junior
-- 
+- Bilingual (English & Spanish)
