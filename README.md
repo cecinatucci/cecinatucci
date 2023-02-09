@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cecinatucci
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning REACT
+- 🌱 React dev Junior
 - 
